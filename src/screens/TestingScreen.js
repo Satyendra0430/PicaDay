@@ -2,7 +2,7 @@ import React from 'react';
 import {StatusBar, View, Text, TouchableOpacity} from 'react-native';
 // import PushNotificationIOS from "@react-native-community/push-notification-ios";
 import PushNotification from 'react-native-push-notification';
-
+//Git test 
 const aman = {
   foreground: false, // BOOLEAN: If the notification was received in foreground or not
   userInteraction: false, // BOOLEAN: If the notification was opened by the user from the notification area or not
